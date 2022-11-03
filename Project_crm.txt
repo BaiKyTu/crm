@@ -73,3 +73,5 @@ select * from roles;
 delete from roles r where r.id = 4 ;
 
 INSERT INTO roles( name, description ) VALUES ("ROLE_TEST", "Quản lý test");
+
+Day la noi dung dc them boi server
